@@ -1,0 +1,2 @@
+# PC_Sales_Data_Modeling_Project
+PC_Sales_Data_Modeling/Nomalisation
